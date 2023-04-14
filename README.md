@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aalexpersson
-- 👀 I’m interested in Software development, AI, data science
+- 👀 I’m interested in Software development, AI, data science and space🪐🌌
 - 🌱 I’m currently studying Software Engineering (MSc) at Chalmers University of Technology 
 
 <!---
