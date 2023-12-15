@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aalexpersson&label=Profile%20views&color=0e75b6&style=flat" alt="aalexpersson" /> </p>
 
 - 👋 Hi, I’m @aalexpersson
-- 👀 I’m interested in Software development, AI, data science and everything that has to do with space🪐🌌
+<!--- 👀 I’m interested in Software development, AI, data science and everything that has to do with space🪐🌌-->
 - 🌱 I’m currently studying Software Engineering (BSc) at Chalmers University of Technology
 
 <h3 align="left">Languages and Tools:</h3>
