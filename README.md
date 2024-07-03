@@ -2,7 +2,8 @@
 
 - 👋 Hi, I’m @aalexpersson
 <!--- 👀 I’m interested in Software development, AI, data science and everything that has to do with space🪐🌌-->
-- 🌱 I’m currently studying Software Engineering (BSc) at Chalmers University of Technology
+- 🧑‍🎓 I have a Bachelor's degree of Science in software engineering from Chalmers University of Technology.
+- 🌱 I'm currently studying a Master's degree of Science in Computer Science - Algorithms, Programming Languages and Logic.
 
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Development</h4>
